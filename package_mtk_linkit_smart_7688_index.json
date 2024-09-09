@@ -3,9 +3,9 @@
     {
       "name": "LinkIt",
       "maintainer": "Seeed Studio and MediaTek Labs",
-      "websiteURL": "http://localhost/",
+      "websiteURL": "https://labs-mediatek-com.pages.dev/",
       "help": {
-        "online": "http://localhost/"
+        "online": "https://labs-mediatek-com.pages.dev/"
       },
       "platforms":[
             {
@@ -13,7 +13,7 @@
                "architecture":"avr",
                "version": "0.1.9",
                "category":"Contributed",
-               "url":"http://localhost/mediatek_linkit_smart_7688_0.1.9.zip",
+               "url":"https://labs-mediatek-com.pages.dev/mediatek_linkit_smart_7688_0.1.9.zip",
                "archiveFileName": "mediatek_linkit_smart_7688_0.1.9.zip",
                "boards":[
                   { "name":"LinkIt Smart 7688 Duo" }
